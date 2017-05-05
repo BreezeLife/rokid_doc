@@ -13,12 +13,10 @@ Rokid开发者社区已于4月1号正式开启内测。
 ### 快速开始
 
 - [开始开发Rokid技能](https://github.com/Rokid/docs/blob/master/1-GetStarted/Rokid%20Skills%20Kit.md)
-  - xxx
 - 开始Rokid语音接入
 
-
 ### 开发Rokid技能
-
+- [开发第一个Rokid技能](https://github.com/alexa/skill-sample-nodejs-fact)
 - [定义语音交互](https://github.com/Rokid/docs/blob/master/2-RokidDocument/1-SkillsKit/Define%20Voice%20Interaction.md)
 - [Rokid技能协议文档](https://github.com/Rokid/docs/blob/master/2-RokidDocument/1-SkillsKit/Cloud%20App%20Development%20Protocol_cn.md)
 - [Rokid NLP正则表达式使用指南](https://github.com/Rokid/docs/blob/master/2-RokidDocument/1-SkillsKit/Rokid%20Regular%20Expression.md)
@@ -31,8 +29,7 @@ Rokid开发者社区已于4月1号正式开启内测。
 - [Rokid开发者社区Siren API文档](https://github.com/Rokid/rokid-blacksiren/blob/master/doc/siren%20api.md)
 - [Rokid开发者社区接口文档](https://github.com/Rokid/rokid-openvoice/blob/master/README.md)
 
-### 设计语音产品
-
+### 设计语音产品指南
 - [Rokid语音产品设计指南](https://github.com/Rokid/docs/blob/master/2-RokidDocument/2-EnableVoice/Rokid%20hardware%20design%20guide.md)
 - [Rokid硬件交互设计指南](https://github.com/Rokid/docs/blob/master/2-RokidDocument/2-EnableVoice/Rokid%20Hardware%20UX%20Design%20Guidelines.md)
 
