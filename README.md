@@ -13,7 +13,7 @@ Rokid开发者社区已于4月1号正式开启内测。
 ### 快速开始
 
 - [开始开发Rokid技能](https://github.com/Rokid/docs/blob/master/1-GetStarted/Rokid%20Skills%20Kit.md)
--- xx
+  - xxx
 - 开始Rokid语音接入
 
 
